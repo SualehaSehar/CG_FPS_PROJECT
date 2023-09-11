@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    height: 100vh;
+}
+
+canvas {
+    display: block;
+}
+
+button {
+    top:1%;
+    left:43%;
+	-webkit-appearance: none;	
+	font-family: Courier;
+	font-size: 12pt;
+	text-align: center;
+	position: absolute;
+	min-width: 80px;
+	border-radius: 0;
+	z-index: 1;
+    background: skyblue; 
+}
